@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>epicoffee</title>
+    <description>Epicoffee -- for those who loves coffee and life.</description>
+    <link>http://localhost:4001/</link>
+    <atom:link href="http://localhost:4001/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 18 Sep 2018 09:41:12 +0700</pubDate>
+    <lastBuildDate>Tue, 18 Sep 2018 09:41:12 +0700</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>milk+coffee</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/public/images/posts/lex-sirikiat-777661-unsplash.jpg&quot; alt=&quot;coffee milk&quot; /&gt;&lt;/p&gt;
+
+&lt;center&gt;&lt;em&gt;Photo by &lt;a href=&quot;https://unsplash.com/photos/rZ7ZdMhqIW0?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Lex Sirikiat&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/search/photos/coffee-milk?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;&lt;/center&gt;
+
+&lt;p&gt;recently i’ve been lazy, too lazy, no coffee rituals, no fancy brewing tools, also no fancy coffee beans.
+i’ve been using Nestcafe instant coffee as my caffeine boost, but it’s not just that, here’s my recipe:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Nescafe&lt;/li&gt;
+  &lt;li&gt;Milk&lt;/li&gt;
+  &lt;li&gt;Sugar (optional)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;first, heat the milk (half of the glass/cup/mug), i’m using microwave to heat the milk, after that, add Nescafe instant coffee (add sugar if you want to), mix it, after that pour hot water (if you want to).&lt;/p&gt;
+
+&lt;p&gt;enjoy!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 18 Mar 2016 00:00:00 +0700</pubDate>
+        <link>http://localhost:4001/custom-brew/</link>
+        <guid isPermaLink="true">http://localhost:4001/custom-brew/</guid>
+        
+        <category>coffee</category>
+        
+        <category>milk</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>kopi vendor</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4001/public/images/posts/kopi.jpg&quot; alt=&quot;kopi&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a typical ‘mobile’ coffee vendor in Jakarta, they will bring a lot of coffee in a sachet continer, and also couple of hot water jug, they will serve a hot coffee on the go for people who need it.
+the coffee brand is ranged from Kapal Api, ABC and also so-called &lt;em&gt;white-coffee&lt;/em&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 03 Mar 2016 00:00:00 +0700</pubDate>
+        <link>http://localhost:4001/kopi-vendor/</link>
+        <guid isPermaLink="true">http://localhost:4001/kopi-vendor/</guid>
+        
+        <category>kopi</category>
+        
+        <category>coffee</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>10 Incredible AeroPress Posters</title>
+        <description>&lt;p&gt;i love the one from Brazil&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://sprudge.com/wp-content/uploads/2016/02/campeonato_bras_aeropress_2016.jpg&quot; alt=&quot;Brazil&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(via &lt;a href=&quot;http://sprudge.com/10-incredible-aeropress-posters-and-one-terrible-one-95375.html&quot;&gt;Sprudge&lt;/a&gt;)&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Mar 2016 00:00:00 +0700</pubDate>
+        <link>http://localhost:4001/aeropress-poster/</link>
+        <guid isPermaLink="true">http://localhost:4001/aeropress-poster/</guid>
+        
+        <category>coffee</category>
+        
+        <category>aeropress</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Making Coffee is easy</title>
+        <description>&lt;iframe src=&quot;//player.vimeo.com/video/12167131&quot; width=&quot;720&quot; height=&quot;400&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://vimeo.com/12167131&quot;&gt;Making Coffee is Easy&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/user3877993&quot;&gt;Mike Devlin&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Mar 2016 00:00:00 +0700</pubDate>
+        <link>http://localhost:4001/making-coffee-is-easy/</link>
+        <guid isPermaLink="true">http://localhost:4001/making-coffee-is-easy/</guid>
+        
+        <category>coffee</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Brew Guide (Aeropress)</title>
+        <description>&lt;iframe src=&quot;//player.vimeo.com/video/15103805&quot; width=&quot;700&quot; height=&quot;400&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://vimeo.com/15103805&quot;&gt;Aeropress&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/doubleshotcz&quot;&gt;doubleshot – prazirna kavy&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Feb 2016 00:00:00 +0700</pubDate>
+        <link>http://localhost:4001/brew-guide-aero/</link>
+        <guid isPermaLink="true">http://localhost:4001/brew-guide-aero/</guid>
+        
+        <category>coffee</category>
+        
+        <category>aeropress</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

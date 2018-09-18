@@ -1,0 +1,60 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Epicoffee",
+    "home_page_url": "http://localhost:4001/",
+    "feed_url": "http://localhost:4001/feed.json",
+    "author": {
+        "name": "Deden Fathurahman",
+        "url": "https://keybase.io/dedenf"
+    },
+    "icon": "http://localhost:4001/images/favicon.png",
+    "expired": false,
+    "items": [
+      {
+        {
+            "id": "/custom-brew",
+            "title": "milk+coffee",
+            "content_html": "<p><img src=\"/public/images/posts/lex-sirikiat-777661-unsplash.jpg\" alt=\"coffee milk\" /></p>\n\n<center><em>Photo by <a href=\"https://unsplash.com/photos/rZ7ZdMhqIW0?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Lex Sirikiat</a> on <a href=\"https://unsplash.com/search/photos/coffee-milk?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></em></center>\n\n<p>recently i’ve been lazy, too lazy, no coffee rituals, no fancy brewing tools, also no fancy coffee beans.\ni’ve been using Nestcafe instant coffee as my caffeine boost, but it’s not just that, here’s my recipe:</p>\n\n<ul>\n  <li>Nescafe</li>\n  <li>Milk</li>\n  <li>Sugar (optional)</li>\n</ul>\n\n<p>first, heat the milk (half of the glass/cup/mug), i’m using microwave to heat the milk, after that, add Nescafe instant coffee (add sugar if you want to), mix it, after that pour hot water (if you want to).</p>\n\n<p>enjoy!</p>\n",
+            "url": "http://localhost:4001/custom-brew/",
+            "summary": "",
+            "date_published": "2016-03-18 00:00:00 +0700"
+        },
+{
+        {
+            "id": "/kopi-vendor",
+            "title": "kopi vendor",
+            "content_html": "<p><img src=\"http://localhost:4001/public/images/posts/kopi.jpg\" alt=\"kopi\" /></p>\n\n<p>This is a typical ‘mobile’ coffee vendor in Jakarta, they will bring a lot of coffee in a sachet continer, and also couple of hot water jug, they will serve a hot coffee on the go for people who need it.\nthe coffee brand is ranged from Kapal Api, ABC and also so-called <em>white-coffee</em>.</p>\n",
+            "url": "http://localhost:4001/kopi-vendor/",
+            "summary": "",
+            "date_published": "2016-03-03 00:00:00 +0700"
+        },
+{
+        {
+            "id": "/aeropress-poster",
+            "title": "10 Incredible AeroPress Posters",
+            "content_html": "<p>i love the one from Brazil</p>\n\n<p><img src=\"http://sprudge.com/wp-content/uploads/2016/02/campeonato_bras_aeropress_2016.jpg\" alt=\"Brazil\" /></p>\n\n<p>(via <a href=\"http://sprudge.com/10-incredible-aeropress-posters-and-one-terrible-one-95375.html\">Sprudge</a>)</p>\n",
+            "url": "http://localhost:4001/aeropress-poster/",
+            "summary": "",
+            "date_published": "2016-03-02 00:00:00 +0700"
+        },
+{
+        {
+            "id": "/making-coffee-is-easy",
+            "title": "Making Coffee is easy",
+            "content_html": "<iframe src=\"//player.vimeo.com/video/12167131\" width=\"720\" height=\"400\" frameborder=\"0\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe>\n\n<p><a href=\"http://vimeo.com/12167131\">Making Coffee is Easy</a> from <a href=\"http://vimeo.com/user3877993\">Mike Devlin</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>\n",
+            "url": "http://localhost:4001/making-coffee-is-easy/",
+            "summary": "",
+            "date_published": "2016-03-01 00:00:00 +0700"
+        },
+{
+        {
+            "id": "/brew-guide-aero",
+            "title": "Brew Guide (Aeropress)",
+            "content_html": "<iframe src=\"//player.vimeo.com/video/15103805\" width=\"700\" height=\"400\" frameborder=\"0\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe>\n\n<p><a href=\"http://vimeo.com/15103805\">Aeropress</a> from <a href=\"http://vimeo.com/doubleshotcz\">doubleshot – prazirna kavy</a> on <a href=\"https://vimeo.com\">Vimeo</a></p>\n",
+            "url": "http://localhost:4001/brew-guide-aero/",
+            "summary": "",
+            "date_published": "2016-02-01 00:00:00 +0700"
+        }
+
+    ]
+}
